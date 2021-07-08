@@ -1,5 +1,5 @@
 <p align="center"> 
-  <hx>
+  <h1>
     **Discord: https://discord.gg/y9rDWdtM8J**
-  </hx> 
+  </h1> 
 
